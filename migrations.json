@@ -1,0 +1,23 @@
+[
+    {
+       "old_table":"old_table",
+       "new_table":"new_table",
+       "columns":[
+          {
+             "new":"id",
+             "old":"old_id",
+             "type":"int"
+          },
+          {
+             "new":"titulo",
+             "old":"old_titulo",
+             "type":"string"
+          },
+          {
+             "new":"data",
+             "old":"old_data",
+             "type":"datetime"
+          }
+       ]
+    }
+ ]
